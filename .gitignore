@@ -1,0 +1,15 @@
+# Sanal ortam
+venv/
+
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoint dosyaları
+.ipynb_checkpoints/
+
+# IDE ayar dosyaları
+.vscode/
