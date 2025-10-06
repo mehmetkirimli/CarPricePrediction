@@ -13,3 +13,6 @@ __pycache__/
 
 # IDE ayar dosyaları
 .vscode/
+
+# Node_modules
+node_modules/
